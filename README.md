@@ -33,7 +33,7 @@
 
 ### **📫 Let's Connect!**  
 - 📧 Email: [shineminkhant219@gmail.com](mailto:shineminkhant219@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shine-min-khant-424868311/)  
+- 💼 LinkedIn: [Shine Min Khant](https://www.linkedin.com/in/shine-min-khant-424868311/)  
 <!--- 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com) *(optional)*  -->
 
 ---
