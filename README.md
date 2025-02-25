@@ -17,12 +17,12 @@
 ---
 
 ### **🚀 Featured Projects**  
-1. **[AI Chatbot for Student Assistance](https://github.com/yourusername/chatbot)**
+1. **[AI Chatbot for Student Assistance](https://github.com/KMUTT-CampusLink/)**
    - Year 2 integrated project where all students have to collaborate to develop a website
    - Built with React, Node.js to answer university related queries.  
    - Integrated with dummy university databases for real-time updates.
      
-3. **[CS First Date Website](https://github.com/yourusername/cs-first-date)**  
+3. **[CS First Date Website](https://github.com/KMUTT-CSFD-2024)**  
    - Led Frontend development using React for welcoming juniors at KMUTT.  
 ---
 
